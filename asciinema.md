@@ -46,3 +46,26 @@ asciinema: true
 
 Your casts must be placed in `static/casts/<key>.cast` 
 
+### Optional properties
+
+This shortcode accepts the options that `<asciinema></asciinema>` tag support. Here is a list with default values:
+
+With defaults:
+* `cols=640`
+* `rows=10`
+* `start-at=0`
+* `speed=1`
+
+Only if setup:
+
+* `autoplay`
+* `preload`
+* `loop`
+* `idle-time-limit`
+* `poster`
+* `font-size`
+* `theme`
+* `title`
+* `author`
+* `author-url`
+* `author-img-url`
