@@ -5,7 +5,9 @@ This shortcode is based on the [All Contributors spec](https://github.com/all-co
 
 ### Setup
 
-copy `.all-contributorsrc` to your hugo site `<hugo-site-root>/data/contributors.json` before running `hugo` command.
+* Copy `.all-contributorsrc` to your hugo site `<hugo-site-root>/data/contributors.json` before running `hugo` command.
+
+* Copy [all-contributors.html](layout/shortcodes/all-contributors.html) to your `layout/shortcodes` folder. 
 
 
 ### Usage 
